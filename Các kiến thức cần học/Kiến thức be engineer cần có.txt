@@ -1,0 +1,188 @@
+BACKEND ENGINEER ROADMAP (JAVA)
+
+====================================
+
+I. CORE JAVA FOUNDATION
+
+OOP (Class, Object, Constructor)
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Abstraction
+
+Interface vs Abstract Class
+
+Exception Handling
+
+Collection Framework (List, Set, Map, HashMap)
+
+Generics
+
+Java 8 (Lambda, Stream API)
+
+File I/O
+
+Multithreading cơ bản
+
+Clean Code
+
+II. DATA STRUCTURE & ALGORITHM
+
+Big O Notation
+
+Array
+
+Linked List
+
+Stack
+
+Queue
+
+HashMap hoạt động như thế nào
+
+Sorting (Quick Sort, Merge Sort)
+
+Binary Search
+
+Recursion
+
+Giải bài tập mức Easy
+
+III. DATABASE
+
+SQL cơ bản
+
+SELECT / INSERT / UPDATE / DELETE
+
+JOIN (INNER, LEFT, RIGHT)
+
+GROUP BY / HAVING
+
+Index là gì
+
+Transaction
+
+ACID
+
+Normalization
+
+Thiết kế database cơ bản
+
+IV. BACKEND WITH SPRING
+
+REST API
+
+HTTP Methods (GET, POST, PUT, DELETE)
+
+JSON
+
+MVC Pattern
+
+Dependency Injection
+
+JPA / Hibernate
+
+Validation
+
+Global Exception Handling
+
+Pagination
+
+Authentication cơ bản
+
+V. WEB & HTTP KNOWLEDGE
+
+HTTP hoạt động thế nào
+
+Request / Response lifecycle
+
+HTTP Status Code
+
+Cookie vs Session
+
+JWT
+
+CORS
+
+VI. VERSION CONTROL
+
+Git cơ bản
+
+Branch
+
+Merge
+
+Pull Request
+
+Commit message chuẩn
+
+VII. TESTING
+
+Unit Test
+
+Test Coverage
+
+Mock
+
+JUnit cơ bản
+
+VIII. DEPLOYMENT & SERVER
+
+Linux command cơ bản
+
+SSH
+
+Build project (Maven / Gradle)
+
+Docker cơ bản
+
+Deploy server đơn giản
+
+IX. SYSTEM DESIGN BASIC
+
+Monolith vs Microservice
+
+RESTful API Design
+
+Caching
+
+Redis cơ bản
+
+Load Balancer là gì
+
+X. ENGINEER MINDSET
+
+Debug kỹ năng
+
+Đọc log
+
+Tìm và xử lý bug
+
+Viết code có cấu trúc
+
+Tối ưu performance cơ bản
+
+Tư duy clean architecture
+
+====================================
+
+MỤC TIÊU CUỐI CÙNG
+
+Làm được 2–3 project CRUD hoàn chỉnh
+
+Có project sử dụng Spring Boot + Database
+
+Có xác thực (JWT hoặc Session)
+
+Có unit test cơ bản
+
+Deploy được lên server
+
+GitHub rõ ràng, commit đều
+
+====================================
+
